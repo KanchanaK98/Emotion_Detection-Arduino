@@ -5,7 +5,7 @@ import controller as cnt
 
 time.sleep(2.0)
 
-img_path = 'smile_girl.jpg'
+img_path = 'surprise_boy.jpg'
 img = cv2.imread(img_path)
 
 attributes = ['gender','emotion']
